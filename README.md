@@ -2,7 +2,7 @@
 A curated list of linux repos to customise your linux life.
 
 
-## Mac Like Search(Spotlight)h2
+## Mac Like Search(Spotlight)
 * https://github.com/albertlauncher/albert
 
 ## Clipboard:
@@ -22,4 +22,5 @@ A curated list of linux repos to customise your linux life.
 * https://extensions.gnome.org/extension/905/refresh-wifi-connections/
 * https://extensions.gnome.org/extension/945/cpu-power-manager/
 
-
+## Scala REPL
+* https://ammonite.io/#Ammonite-REPL
