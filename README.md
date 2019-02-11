@@ -24,3 +24,6 @@ A curated list of linux repos to customise your linux life.
 
 ## Scala REPL
 * https://ammonite.io/#Ammonite-REPL
+
+## CommandLine Beautification
+* https://github.com/robbyrussell/oh-my-zsh
