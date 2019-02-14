@@ -27,3 +27,6 @@ A curated list of linux repos to customise your linux life.
 
 ## Command Line Beautification(ZSH)
 * https://github.com/robbyrussell/oh-my-zsh
+
+## TODO List:
+* Change Firefox Title: customize > uncheck *Title Bar* (Bottom Left Corner)
